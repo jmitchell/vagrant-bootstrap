@@ -31,7 +31,7 @@ support for [Linux Containers](https://linuxcontainers.org/) and
 [Ubuntu 14.04](http://www.ubuntu.com/download/desktop).
 
 Each *world* serves as a consistent foundation for further
-work. By themselves, worlds will be a useful construct for users who
+work. By themselves, worlds will be useful constructs for users who
 want to learn more about computing via this standardized
 platform. But there's room for more.
 
